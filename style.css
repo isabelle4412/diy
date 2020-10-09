@@ -14,9 +14,24 @@ body {
 
 #banner h1 {
   padding-bottom: 1.5em;
-  color: #121f0e;
+  color: #261411;
   font-size: 2em;
   font-family: "Lucida Calligraphy" ;
+}
+#banner a {
+  background-color:#261411 ;
+  color: #fff8f7;
+  font-size: 1.4em;
+  padding: 0.8em;
+  text-decoration:none;
+  border-radius: 5px;
+  border: 1px solid #fff8f7;
+
+}
+#banner a:hover {
+  color: #f98d7a;
+  text-decoration: none;
+  border: 1px solid #f98d7a;
 }
 
 footer {
@@ -30,4 +45,8 @@ footer a {
   color: #fff8f7;
   font-size: 1.5em;
   padding: 0.1;
+}
+
+footer a:hover {
+  color: #f98d7a;
 }
