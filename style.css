@@ -10,6 +10,7 @@ h2 {
   color: #261411;
   font-weight: 900;
   padding-top: 0.8em;
+  padding-bottom: 0.5em;
 }
 
 #banner {
@@ -52,17 +53,18 @@ footer {
 
 .tags {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   margin-top: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
   text-align: center;
-  padding-bottom: 0.3em;
+  padding-bottom: 0.2em;
 }
 
 .tag {
-  box-shadow: 0 0 15px rgba(38,20,17,0.2);
+  box-shadow: 0 0 15px rgba(38,20,17,0.1);
   width: 20em;
   border-radius: 5px;
+  background-color: #fcfcfc;
 }
 
 .tag h3 {
@@ -70,9 +72,47 @@ footer {
   font-size: 1.1em;
 }
 
+.talk {
+  box-shadow: 0 0 15px rgba(38,20,17,0.1);
+  width: 60em;
+  border-radius: 5px;
+  background-color: #fcfcfc;
+  display: flex;
+  align-items: center;
+  padding: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin: auto;
+  margin-bottom: 1.5em;
+}
+
+.talk img {
+  border-radius: 50%;
+  width: 6em;
+  height: 6em;
+}
+
+.description {
+
+}
+
+.speech {
+  text-align: center;
+}
+
+.person {
+  color: #f98d7a;
+  text-align: right;
+}
+
+footer {
+  margin-top: 3em;
+}
+
 footer p {
   margin-right: 0.4em;
 }
+
 footer a {
   color: #fff8f7;
   font-size: 1.5em;
