@@ -1,3 +1,10 @@
+body {
+  font-family: "Comic Sans MS";
+  font-size: 1em;
+  color:#261411;
+  background-color:#fff8f7 ;
+}
+
 #banner {
   background-image: linear-gradient(rgba(255,255,255, 0.5),rgba(255,255,255,0.5)), url("banner.jpg");
   background-size: cover;
@@ -8,6 +15,17 @@
 #banner h1 {
   padding-bottom: 2em;
   color: #121f0e;
-  font-size: 4em;
+  font-size: 3em;
   font-family: "Lucida Calligraphy" ;
+}
+
+footer {
+  background-color: #261411;
+  color: #fff8f7;
+  text-align: center;
+}
+
+footer a {
+  color: #fff8f7;
+  font-size: 1.5em;
 }
