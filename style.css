@@ -43,6 +43,24 @@ footer {
   align-items: center;
 }
 
+.tags {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.tag {
+  background-color: white;
+  box-shadow: 2px 2px 2px #f98d7a;
+  width: 23em;
+}
+
+.tag h3 {
+  background-color: #f98d7a;
+  padding-top: 0;
+}
+
 footer p {
   margin-right: 0.4em;
 }
