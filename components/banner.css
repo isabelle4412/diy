@@ -1,0 +1,27 @@
+#banner {
+  background-size: cover;
+  text-align: center;
+  padding: 5em;
+}
+
+#banner h1 {
+  padding-bottom: 1.2em;
+  color: #261411;
+  font-size: 2em;
+  font-family: "Lucida Calligraphy" ;
+}
+#banner a {
+  background-color:#261411 ;
+  color: #fff8f7;
+  font-size: 1em;
+  padding: 0.6em;
+  text-decoration:none;
+  border-radius: 5px;
+  border: 1px solid #fff8f7;
+
+}
+#banner a:hover {
+  color: #f98d7a;
+  text-decoration: none;
+  border: 1px solid #f98d7a;
+}

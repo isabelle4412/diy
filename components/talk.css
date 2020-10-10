@@ -1,0 +1,32 @@
+.talk {
+  box-shadow: 0 0 15px rgba(38,20,17,0.1);
+  width: 60em;
+  border-radius: 5px;
+  background-color: #fcfcfc;
+  display: flex;
+  align-items: center;
+  padding: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin: auto;
+  margin-bottom: 1.5em;
+}
+
+.talk img {
+  border-radius: 50%;
+  width: 6em;
+  height: 6em;
+}
+
+.description {
+
+}
+
+.speech {
+  text-align: center;
+}
+
+.person {
+  color: #f98d7a;
+  text-align: right;
+}
