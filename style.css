@@ -15,6 +15,14 @@ body {
   background-color:#fff8f7 ;
 }
 
+h1 {
+  padding-bottom: 1.2em;
+  color: #261411;
+  font-size: 2em;
+  font-family: "Lucida Calligraphy" ;
+  text-align: center;
+}
+
 h2 {
   font-size: 1.2em;
   color: #261411;
