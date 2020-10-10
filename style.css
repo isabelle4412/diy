@@ -21,3 +21,13 @@ h2 {
   padding-top: 0.8em;
   padding-bottom: 0.5em;
 }
+
+a {
+  text-decoration:none;
+
+
+}
+a:hover {
+  color: #f98d7a;
+  text-decoration: none;
+}
