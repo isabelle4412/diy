@@ -1,0 +1,28 @@
+#navbar {
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 0.8em;
+  padding-right: 0.8em;
+}
+
+#navbar a {
+  background-color:#261411 ;
+  color: #fff8f7;
+  font-size: 1em;
+  padding: 0.6em;
+  text-decoration:none;
+  border-radius: 5px;
+  border: 1px solid #fff8f7;
+}
+
+#navbar p {
+  font-weight: bold;
+}
+
+#navbar a:hover {
+  color: #f98d7a;
+  text-decoration: none;
+  border: 1px solid #f98d7a;
+}
