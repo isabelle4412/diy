@@ -4,6 +4,7 @@
 @import url("components/tag.css");
 @import url("components/talk.css");
 @import url("components/navbar.css");
+@import url("components/choicebar.css");
 
 
 /* --- Style --- */
@@ -11,7 +12,7 @@
 body {
   font-family: "Comic Sans MS";
   font-size: 1em;
-  color:#261411;
+  color: #261411;
   background-color:#fff8f7 ;
 }
 
@@ -19,7 +20,7 @@ h1 {
   padding-bottom: 1.2em;
   color: #261411;
   font-size: 2em;
-  font-family: "Lucida Calligraphy" ;
+  font-family: "Lucida Calligraphy";
   text-align: center;
 }
 

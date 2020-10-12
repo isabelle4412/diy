@@ -1,0 +1,19 @@
+.choices {
+  display: flex;
+  justify-content: center;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: -2.5em;
+  font-weight: bold;
+}
+
+.choices a {
+  margin-left: 1em;
+  margin-right: 1em;
+  color: #261411;
+}
+
+.choices a:hover {
+  color: #f98d7a;
+  text-decoration: none;
+}
