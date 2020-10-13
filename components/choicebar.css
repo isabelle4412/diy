@@ -4,6 +4,7 @@
   margin-left: 0em;
   margin-right: 0em;
   margin-top: -2.5em;
+  margin-bottom: 2.1em;
   font-weight: bold;
 }
 
@@ -17,4 +18,8 @@
 .choices a:hover {
   color: #f98d7a;
   text-decoration: none;
+}
+
+.choices .selected {
+  color: #f98d7a;
 }

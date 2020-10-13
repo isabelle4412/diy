@@ -5,6 +5,7 @@
 @import url("components/talk.css");
 @import url("components/navbar.css");
 @import url("components/choicebar.css");
+@import url("components/product.css");
 
 
 /* --- Style --- */
@@ -34,6 +35,7 @@ h2 {
 
 h2 a {
   color: #261411;
+  text-decoration: none;
 }
 
 
