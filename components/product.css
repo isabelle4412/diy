@@ -1,12 +1,14 @@
 .products {
-  display: flex;
-  justify-content: space-evenly;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .product {
   box-shadow: 0 0 15px rgba(38,20,17,0.1);
   border-radius: 5px;
   background-color: #fcfcfc;
+  width: 24em;
+  margin: 1em;
 }
 
 .product img {
