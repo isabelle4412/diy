@@ -10,4 +10,6 @@
 
 .choices .selected {
   color: #f98d7a;
+  margin-left: 1em;
+  margin-right: 1em;
 }
