@@ -8,6 +8,7 @@
 @import url("components/navbar.css");
 @import url("components/choicebar.css");
 @import url("components/product.css");
+@import url("components/lightcard.css");
 
 
 /* --- Style --- */
@@ -34,6 +35,11 @@ h2 {
   font-weight: 900;
   padding-top: 0.8em;
   padding-bottom: 0.5em;
+}
+
+h3 {
+  color: #f98d7a;
+  font-size: 1.1em;
 }
 
 a {
