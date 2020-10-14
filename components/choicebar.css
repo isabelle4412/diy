@@ -8,18 +8,6 @@
   font-weight: bold;
 }
 
-.choices a {
-  margin-left: 1em;
-  margin-right: 1em;
-  color: #261411;
-  text-decoration: none;
-}
-
-.choices a:hover {
-  color: #f98d7a;
-  text-decoration: none;
-}
-
 .choices .selected {
   color: #f98d7a;
 }

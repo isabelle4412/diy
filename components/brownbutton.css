@@ -1,0 +1,13 @@
+
+.brownbutton {
+  background-color:#261411;
+  color: #fff8f7;
+  font-size: 1em;
+  padding: 0.6em;
+  border-radius: 5px;
+  border: 1px solid #fff8f7;
+}
+
+.brownbutton:hover {
+  border: 1px solid #f98d7a;
+}

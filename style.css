@@ -1,6 +1,8 @@
 /* --- Import Components stylesheets --- */
 @import url("components/banner.css");
+@import url("components/brownbutton.css");
 @import url("components/footer.css");
+@import url("components/link.css");
 @import url("components/tag.css");
 @import url("components/talk.css");
 @import url("components/navbar.css");
@@ -34,11 +36,9 @@ h2 {
   padding-bottom: 0.5em;
 }
 
-h2 a {
-  color: #261411;
+a {
   text-decoration: none;
 }
-
 
 a:hover {
   color: #f98d7a;
