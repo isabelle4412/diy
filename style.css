@@ -37,10 +37,15 @@ h2 {
   padding-bottom: 0.5em;
 }
 
+h2 .link {
+  margin-left:0em;
+}
+
 h3 {
   color: #f98d7a;
   font-size: 1.1em;
 }
+
 
 a {
   text-decoration: none;
@@ -49,4 +54,8 @@ a {
 a:hover {
   color: #f98d7a;
   text-decoration: none;
+}
+
+.textcontainer {
+  padding: 1em;
 }
