@@ -3,9 +3,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0.5em;
-  padding-left: 1.2em;
-  padding-right: 1.2em;
+  padding: 0.5em 1.2em;
   margin: auto;
   margin-bottom: 1.5em;
 }

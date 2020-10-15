@@ -1,15 +1,11 @@
 .choices {
   display: flex;
   justify-content: center;
-  margin-left: 0em;
-  margin-right: 0em;
-  margin-top: -2.5em;
-  margin-bottom: 2.1em;
+  margin: -2.5em 0em 2.1em 0em;
   font-weight: bold;
 }
 
 .choices .selected {
   color: #f98d7a;
-  margin-left: 1em;
-  margin-right: 1em;
+  margin: 0em 1em;
 }

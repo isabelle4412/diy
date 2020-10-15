@@ -1,8 +1,7 @@
 .tags {
   display: flex;
   justify-content: space-evenly;
-  margin-top: 1em;
-  margin-bottom: 1.5em;
+  margin: 1em 0em 1.5em 0em;
   text-align: center;
   padding-bottom: 0.2em;
 }
