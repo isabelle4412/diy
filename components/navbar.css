@@ -1,4 +1,5 @@
 #navbar {
+  width: auto;
   background-size: cover;
   display: flex;
   justify-content: space-between;
