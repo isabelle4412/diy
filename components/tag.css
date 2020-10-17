@@ -1,11 +1,10 @@
 .tags {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
-  margin: 1em 0em 1.5em 0em;
   text-align: center;
-  padding-bottom: 0.2em;
 }
 
 .tag {
-  width: 20em;
+  width: 20rem;
 }
