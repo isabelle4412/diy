@@ -14,24 +14,34 @@
 
 
 /* --- Style --- */
+/* --- Type-scale use for determine font-size --- */
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&family=Dancing+Script:wght@700&display=swap');
 
 body {
-  font-family: "Comic Sans MS";
+  font-family: 'Comic Neue', cursive;
+  line-height: 1.5em;
   font-size: 1em;
   color: #261411;
   background-color:#fff8f7 ;
   margin: 0em;
 }
 
+
 h1 {
+  font-family: 'Dancing Script', cursive;
   padding-bottom: 1em;
   color: #261411;
-  font-size: 2em;
+  font-size: 3.052em;
   text-align: center;
 }
 
+.contacttitle {
+  padding-bottom: 0em;
+}
+
 h2 {
-  font-size: 1.2em;
+  font-size: 1.563em;
   color: #261411;
   font-weight: 900;
   padding: 0.8em 0em 0.5em 0em;
@@ -42,8 +52,8 @@ h2 .link {
 }
 
 h3 {
+  font-size: 1em;
   color: #f98d7a;
-  font-size: 1.1em;
 }
 
 
