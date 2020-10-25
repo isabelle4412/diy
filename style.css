@@ -52,7 +52,7 @@ h2 .link {
 
 h3 {
   font-size: 1em;
-  color: #f05454;
+  color: #af2d2d;
 }
 
 a {
@@ -60,7 +60,7 @@ a {
 }
 
 a:hover {
-  color: #f05454;
+  color: #af2d2d;
   text-decoration: none;
 }
 
