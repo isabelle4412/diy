@@ -1,6 +1,6 @@
 
 .brownbutton {
-  background-color:#261411;
+  background-color:#050404;
   color: #fff8f7;
   font-size: 1rem;
   padding: 0.6em;
@@ -9,5 +9,5 @@
 }
 
 .brownbutton:hover {
-  border: 1px solid #f98d7a;
+  border: 1px solid #E39695;
 }

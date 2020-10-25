@@ -22,15 +22,15 @@ body {
   font-family: 'Comic Neue', cursive;
   line-height: 1.5em;
   font-size: 1em;
-  color: #261411;
-  background-color:#fff8f7 ;
+  color: #050404;
+  background-color:#FDFFFC ;
   margin: 0em;
 }
 
 h1 {
   font-family: 'Dancing Script', cursive;
   padding-bottom: 1em;
-  color: #261411;
+  color: #050404;
   font-size: 2.441em;
   text-align: center;
 }
@@ -41,7 +41,7 @@ h1 {
 
 h2 {
   font-size: 1.563em;
-  color: #261411;
+  color: #050404;
   font-weight: 900;
   padding: 0.8em 0em 0.5em 0em;
 }
@@ -52,7 +52,7 @@ h2 .link {
 
 h3 {
   font-size: 1em;
-  color: #af2d2d;
+  color: #E3170A;
 }
 
 a {
@@ -60,7 +60,7 @@ a {
 }
 
 a:hover {
-  color: #af2d2d;
+  color: #E3170A;
   text-decoration: none;
 }
 
