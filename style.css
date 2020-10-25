@@ -23,7 +23,7 @@ body {
   line-height: 1.5em;
   font-size: 1em;
   color: #050404;
-  background-color:#FDFFFC ;
+  background-color:#fff8f7;
   margin: 0em;
 }
 
@@ -52,6 +52,7 @@ h2 .link {
 
 h3 {
   font-size: 1em;
+  font-weight: bold;
   color: #E3170A;
 }
 
