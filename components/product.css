@@ -2,21 +2,16 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
+  grid-gap: 1em;
 }
 
-.product {
-  margin: auto;
-  margin-bottom: 1.7em;
-
-}
-
-.product img {
+.lightcard img {
   width: 23em;
   height: 18em;
   padding: 0.5em;
 }
 
-.product h3 {
+.lightcard h3 {
   text-align: center;
   margin: -0.1em 0em 1em 0em;
   font-size: 1.1em;
