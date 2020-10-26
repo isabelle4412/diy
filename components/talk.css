@@ -1,9 +1,10 @@
 .talk {
   width: 70%;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
-  padding: 0.5em 1.2em;
+  padding: 1em 1.2em;
   margin: auto;
   margin-bottom: 1.5em;
 }
