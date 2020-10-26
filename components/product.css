@@ -5,13 +5,30 @@
   grid-gap: 1em;
 }
 
-.lightcard img {
+@media(max-width: 992px) {
+  .products {
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+  }
+}
+
+@media(max-width: 768px) {
+  .products {
+    grid-template-columns: 1fr;
+    justify-content: center;
+  }
+}
+
+.product {
+  width: 24em;
+}
+.product img {
   width: 23em;
   height: 18em;
   padding: 0.5em;
 }
 
-.lightcard h3 {
+.product h3 {
   text-align: center;
   margin: -0.1em 0em 1em 0em;
   font-size: 1.1em;
