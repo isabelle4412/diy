@@ -33,7 +33,6 @@ h1 {
   color: #050404;
   font-size: 2.441em;
   text-align: center;
-  line-height: 1.2em;
 }
 
 .contacttitle {
@@ -45,7 +44,6 @@ h2 {
   color: #050404;
   font-weight: 900;
   padding: 0.8em 0em 0.5em 0em;
-  line-height: 1.2em;
 }
 
 h2 .link {
@@ -60,6 +58,7 @@ h3 {
 
 a {
   text-decoration: none;
+  font-size: 1em;
 }
 
 a:hover {
@@ -69,4 +68,31 @@ a:hover {
 
 .textcontainer {
   padding: 0em 2em;
+  width: auto;
+}
+
+/*Media Queries*/
+
+/*Smallest device*/
+@media (min-width: 100px) and (max-width: 665px) {
+
+  h1 {
+    font-size: 1.953em;
+    line-height: 1.2em;
+    padding-bottom: 1.2em;
+  }
+
+  h2 {
+    font-size: 1.25em;
+    line-height: 1.2em;
+  }
+
+  a {
+    font-size: 0.9em;
+  }
+
+  .textcontainer {
+    padding: 0em 1em;
+  }
+
 }
