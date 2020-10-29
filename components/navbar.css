@@ -3,17 +3,21 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0em 0.8em;
+  padding: 0.8em 0.8em;
   margin-bottom: 2.5em;
 }
 
-#navbar p {
-  font-weight: 700;
+#navbar a {
   font-size: 1em;
 }
 
+.link_index {
+  color:#050404;
+  font-weight: 700;
+}
+
 @media (min-width: 100px) and (max-width: 665px) {
-  #navbar p {
+  #navbar a {
     font-size: 0.9em;
   }
 }
