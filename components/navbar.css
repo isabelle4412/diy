@@ -3,12 +3,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.8em 0.8em;
-  margin-bottom: 2.5em;
+  padding: 1.8em;
+  margin-bottom: 3.5em;
 }
 
 #navbar a {
   font-size: 1em;
+  margin-left: 0.8em;
 }
 
 .link_index {
@@ -17,7 +18,13 @@
 }
 
 @media (min-width: 100px) and (max-width: 665px) {
+
+  #navbar {
+    padding: 0.7em;
+  }
+
   #navbar a {
-    font-size: 0.9em;
+    font-size: 0.8em;
+    margin-left: 0em;
   }
 }
