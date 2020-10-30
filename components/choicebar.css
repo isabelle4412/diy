@@ -21,3 +21,8 @@
     margin: 0em 0.5em;
   }
 }
+
+.selected {
+  color: #E3170A;
+  margin: 0em 1em;
+}

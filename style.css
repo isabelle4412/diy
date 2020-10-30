@@ -116,3 +116,7 @@ a:hover {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.yellow {
+  text-decoration: underline;
+}
