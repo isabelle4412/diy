@@ -3,3 +3,7 @@
   padding: 5em;
   text-align: center;
 }
+
+#banner h1 {
+  padding-bottom: 1em;
+}
