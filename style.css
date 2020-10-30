@@ -89,4 +89,8 @@ a:hover {
     font-size: 0.9em;
   }
 
+  .textcontainer {
+    margin: 0.5em;
+  }
+
 }
