@@ -2,6 +2,7 @@ $(document).ready(function() {
 
   $('#footer').load('../footer.html');
   $('#header').load('../navbar.html');
+  $('#header').load('navbar.html');
 
   $(".product").hide();
   $('#product_clothes').load('../vetements.html');
