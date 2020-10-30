@@ -1,8 +1,10 @@
 .products {
   flex-grow: 1;
   display: grid;
-  grid-gap: 1em;
+  grid-gap: 1.2em;
   justify-items: center;
+  max-width: 57em;
+  margin: auto;
 }
 
 .product {
