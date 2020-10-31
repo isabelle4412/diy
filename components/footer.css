@@ -1,5 +1,4 @@
 footer {
-
   background-color: #050404;
   color: #fff8f7;
   padding: 0.05em;
@@ -21,7 +20,6 @@ footer a {
   font-size: 1.5em;
   margin: 0em 0.4em;
 }
-
 
 @media (min-width: 100px) and (max-width: 665px) {
   footer p {

@@ -5,6 +5,16 @@
   font-weight: bold;
 }
 
+.link {
+  margin: 0em 1em;
+  color: #050404;
+  font-size: 1em;
+}
+
+.link:hover {
+  color:#E3170A;
+}
+
 .selected {
   color: #E3170A;
 }
