@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
-  $('#footer').load('../../html/to_be_loaded/footer.html');
-  $('#footer').load('html/to_be_loaded/footer.html');
+  $('#footer').load('to_be_loaded/footer.html');
+
   $('#header').load('../../html/to_be_loaded/navbar.html');
 
   $(".product").hide();
