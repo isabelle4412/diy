@@ -23,7 +23,11 @@
   .choices {
     display: flex;
     justify-content: center;
-    margin: -2em 0em 2.6em 0em;
+    margin: -2em 0em 2.3em 0em;
 
+  }
+
+  .link {
+    font-size: 0.9em;
   }
 }
