@@ -1,8 +1,8 @@
 $(document).ready(function() {
 
-  $('#footer').load('/html/to_be_loaded/footer.html');
+  $('#footer').load('../../html/to_be_loaded/footer.html');
   $('#footer').load('html/to_be_loaded/footer.html');
-  $('#header').load('/html/to_be_loaded/navbar.html');
+  $('#header').load('../../html/to_be_loaded/navbar.html');
 
   $(".product").hide();
   $('#product_clothes').load('/html/to_be_loaded/vetements.html');
