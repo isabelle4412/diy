@@ -1,7 +1,6 @@
 .products {
   flex-grow: 1;
   display: grid;
-  grid-gap: 1.2em;
   justify-items: center;
   max-width: 57em;
   margin: auto;
@@ -9,6 +8,7 @@
 
 .product {
   width: 18em;
+  margin: 1em;
 }
 
 .product img {
