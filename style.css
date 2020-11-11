@@ -96,4 +96,8 @@ a:hover {
     margin: 0.3em;
   }
 
+  .flex .brownbutton {
+    margin-bottom : 1em;
+  }
+
 }
