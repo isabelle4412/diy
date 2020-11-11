@@ -63,6 +63,7 @@ a:hover {
 
 .textcontainer {
   margin: 1.5em;
+  min-height: 30em;
 }
 
 .flex {
@@ -71,6 +72,9 @@ a:hover {
   align-items: center;
 }
 
+#header {
+  min-height: 5em;
+}
 
 /*Media Queries*/
 
