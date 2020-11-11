@@ -42,10 +42,7 @@ h2 {
   color: #050404;
   font-weight: 900;
   padding: 0.8em 0em 0.5em 0em;
-}
-
-h2 .link {
-  margin-left:0em;
+  margin-right: 0.5em;
 }
 
 h3 {
@@ -67,6 +64,13 @@ a:hover {
 .textcontainer {
   margin: 1.5em;
 }
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
 
 /*Media Queries*/
 
