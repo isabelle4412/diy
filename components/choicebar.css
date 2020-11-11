@@ -13,11 +13,13 @@
 
 .link:hover {
   color:#E3170A;
+  cursor: pointer;
 }
 
 .selected {
   color: #E3170A;
 }
+
 
 @media (min-width: 100px) and (max-width: 665px) {
   .choices {
